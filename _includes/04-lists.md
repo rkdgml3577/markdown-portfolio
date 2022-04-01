@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. coke
+2. bread 
+* chocolate
+* strawberry
